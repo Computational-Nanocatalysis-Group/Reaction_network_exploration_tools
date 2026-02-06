@@ -11,7 +11,7 @@ Article abstract: Although copper is one of the most common components in cataly
 
 [**Schematic representation of the multistep computational workflow (article ESI)**](https://www.rsc.org/suppdata/d5/ey/d5ey00338e/d5ey00338e3.pdf)
 
-![Workflow](docs/workflow.png)
+<img src="docs/workflow.png" alt="Workflow" width="40%">
 
 The scripts and notebook deposited here implement the the tools used to simplify the quantum chemical calculations for the construction of the reaction network:
 - The **Jupyter notebook** implements semi-empirical (GFN1-xTB) optimizations, vibrational frequency analyses on selected atoms, and staged DyNEB calculations to obtain guess transition state geometries and the associated imaginary modes.
