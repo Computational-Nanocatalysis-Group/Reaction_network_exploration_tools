@@ -6,7 +6,7 @@ This repository accompanies the article in **EES Catalysis** (Royal Society of C
 
 [**Reaction Network of CO2 Hydrogenation into C1-2 Oxygenates and Its BEP Relationships**](https://pubs.rsc.org/en/content/articlehtml/2026/ey/d5ey00338e)  
 
-Mikhail V. Polynskii, Sergey M. Kozlov
+Mikhail V. Polynski, Sergey M. Kozlov
 
 
 The original article (DOI: 10.1039/D5EY00338E) is published under Creative Commons Attribution-Non Commercial 3.0 Unported Licence
