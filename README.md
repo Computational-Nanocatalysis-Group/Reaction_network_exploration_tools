@@ -1,7 +1,6 @@
 # Tools for Exploring Reaction Network of CO2 Hydrogenation into C1-2 Oxygenates
 
-This repository is a version-of-record code deposit for the article; we do not accept pull requests.
-Please fork/download for your own use (see license). For bug reports, email the authors.
+This repository is a version-of-record code deposit for the article; we do not accept pull requests. Please fork or download for your own use. The code in this repository is released under the MIT License. For bug reports, please email the authors.
 
 This repository accompanies the article in **EES Catalysis** (Royal Society of Chemistry):
 
