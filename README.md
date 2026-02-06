@@ -3,8 +3,11 @@
 This repository accompanies the in **EES Catalysis** (Royal Society of Chemistry):
 
 [**Reaction Network of CO2 Hydrogenation into C1-2 Oxygenates and Its BEP Relationships**](https://pubs.rsc.org/en/content/articlehtml/2026/ey/d5ey00338e)  
+
 Mikhail V. Polynskii, Sergey M. Kozlov
+
 DOI: 10.1039/D5EY00338E
+
 Published under Creative Commons Attribution-Non Commercial 3.0 Unported Licence
 
 Article abstract: Although copper is one of the most common components in catalysts for CO2 conversion into valuable C2+ chemicals, a clear and systematic mechanistic explanation of its unique properties in these processes is lacking. Herein, we address this challenge by introducing a novel ansatz to rationally construct catalytic reaction networks and account for realistic active sites on catalyst nanoparticles, applied here to CO2 hydrogenation into C1 and C2 oxygenates, explaining the formation of frequently observed reaction intermediates. We also provide a comparative mechanistic analysis of CO2 hydrogenation on a stronger-adsorbing metal widely used in hydrogenation reactions, Pd. Furthermore, we present a refined approach to Brønsted-Evans-Polanyi relationships tailored to structural characteristics of transition states. Our approach facilitates further exploration of CO2 hydrogenation on transition metal-based catalysts, deepening our understanding of the underlying reaction mechanism. This theoretical framework not only elucidates the intricate kinetics of CO2 hydrogenation but also establishes a versatile foundation for rational catalyst design across catalytic domains. This study highlights the unique activity of Cu in various hydrogenation and C–C coupling steps. Unlike scarce metals that require resource-intensive extraction, Cu reduces the environmental impact and costs of CO2 conversion technologies. Clarifying its unique role in converting CO2 into valuable C2+ chemicals moves us closer to balancing economic growth and environmental protection.
