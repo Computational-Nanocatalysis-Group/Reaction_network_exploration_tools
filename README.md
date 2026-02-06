@@ -1,6 +1,9 @@
 # Tools for Exploring Reaction Network of CO2 Hydrogenation into C1-2 Oxygenates
 
-This repository accompanies the in **EES Catalysis** (Royal Society of Chemistry):
+This repository is a version-of-record code deposit for the article; we do not accept pull requests.
+Please fork/download for your own use (see license). For bug reports, email the authors.
+
+This repository accompanies the article in **EES Catalysis** (Royal Society of Chemistry):
 
 [**Reaction Network of CO2 Hydrogenation into C1-2 Oxygenates and Its BEP Relationships**](https://pubs.rsc.org/en/content/articlehtml/2026/ey/d5ey00338e)  
 
